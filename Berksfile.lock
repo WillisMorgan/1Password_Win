@@ -1,0 +1,16 @@
+DEPENDENCIES
+  1password
+    path: .
+    metadata: true
+  delivery-sugar
+    git: https://github.com/chef-cookbooks/delivery-sugar.git
+    revision: 7f72694da79719f90cd08ba8e16eccb65fd00b8f
+  delivery-truck
+    git: https://github.com/chef-cookbooks/delivery-truck.git
+    revision: d4b88745901c1063d59805ff6317e770753afb54
+
+GRAPH
+  1password (0.1.0)
+  delivery-sugar (1.3.1)
+  delivery-truck (2.3.2)
+    delivery-sugar (~> 1.1)
