@@ -1,5 +1,11 @@
 # 1Password Cookbook Changelog
 
+# v0.0.5 (2017-08-01)
+---------------------------
+- updated files under the build cookbook
+  * Build Cook books have been updated
+  * Verified correct alignment with code
+  * Prepared cookbook for Github
 # v0.0.5 (2017-02-08)
 ---------------------------
 - Created a Directory inside of the 1Password Cookbook via Powershell
@@ -7,7 +13,7 @@
     * Named the Folder 'attributes'
     * created the default.rb file in the Folder
     * Upgraded to version 1Password.4.6.1
-      * Unistalled previous version of 1Password for Windows
+      * Uninstalled previous version of 1Password for Windows
       *
 # v0.0.3 (2016-12-28)
 - Submitted Cookbook to git
