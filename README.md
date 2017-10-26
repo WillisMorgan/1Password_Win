@@ -1,4 +1,6 @@
 # 1password_win
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FWillisMorgan%2F1Password_Win.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FWillisMorgan%2F1Password_Win?ref=badge_shield)
+
 =======================
 TODO: Downloads the 1Password trial version and executes it.
 
@@ -41,3 +43,6 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FWillisMorgan%2F1Password_Win.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FWillisMorgan%2F1Password_Win?ref=badge_large)
